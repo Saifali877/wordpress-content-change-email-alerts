@@ -21,7 +21,7 @@ The email is plain text for reliable delivery. It reports that a tracked value c
 
 ### In Code Snippets
 
-Copy the PHP file into a new PHP snippet, omit the opening `<?php` line and plugin header, and set it to run everywhere. Use **one** install method. Running both copies will register duplicate listeners.
+Copy the PHP file into a new PHP snippet, omit the opening `<?php` line and plugin header, and set it to run everywhere. Use one install method so the setup stays clear.
 
 Requires WordPress 5.6+ and PHP 7.4+. The listed integration fields should be checked against the versions of Elementor, ACF and WooCommerce on your site.
 
